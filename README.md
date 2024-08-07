@@ -9,7 +9,7 @@
 
 👋 Hi, I'm Rajshree Bargal, "My goal is to continually improve and seize every opportunity for growth." As a dedicated and driven Frontend Developer with a passion for creating dynamic and responsive web applications. Skilled in HTML, CSS, SCSS, JavaScript, TypeScript and frameworks like React.js and Next.js. I write clean, maintainable code ensuring seamless experiences across all devices.. Let's connect to discuss how I can contribute to your next project.
 
-### :mailbox:  Reach me out !! <br/>
+### :mailbox:  Connect With Me !! <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-rajshreebargal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajshree-bargal/)
 [![Mail Badge](https://img.shields.io/badge/-bargalrajshree4496-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bargalrajshree4496@gmail.com)
 
