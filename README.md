@@ -5,11 +5,11 @@
 -->
 
 ## Hello folks!  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> 
-### Welcome to my Github profile!
+### 💫 Welcome to my Github profile!
 
 👋 Hi, I'm Rajshree Bargal, "My goal is to continually improve and seize every opportunity for growth." As a dedicated and driven Frontend Developer with a passion for creating dynamic and responsive web applications. Skilled in HTML, CSS, SCSS, JavaScript, TypeScript and frameworks like React.js and Next.js. I write clean, maintainable code ensuring seamless experiences across all devices.. Let's connect to discuss how I can contribute to your next project.
 
-:mailbox: Reach me out!! <br/>
+### :mailbox:  Reach me out !! <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-rajshreebargal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajshree-bargal/)
 [![Mail Badge](https://img.shields.io/badge/-bargalrajshree4496-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bargalrajshree4496@gmail.com)
 
