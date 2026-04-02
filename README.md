@@ -114,6 +114,15 @@
 - 🤝 Collaborate in **Agile teams** with backend & product teams
 
 ---
+## 🚀 How I Build Frontend Systems
+
+1. Understand product flows before coding
+2. Design reusable component contracts
+3. Separate server state vs UI state
+4. Optimize renders early
+5. Add testing for critical flows
+---
+
 
 ### 💼 Experience Highlights
 
