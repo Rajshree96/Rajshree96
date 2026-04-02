@@ -62,7 +62,7 @@
 <br/>
 
 ---
-
+<!--
 ## 🛠️ Tech Stack
 
 **⚛️ Frontend Core**
@@ -109,8 +109,8 @@
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
-
 ---
+-->
 
 ## 🚀 What I Do
 
