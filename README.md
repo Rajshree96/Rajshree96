@@ -23,7 +23,7 @@
 
 ## 🔮 About Me
 
-<img align="right" alt="Frontend Dev" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" alt="Frontend Developer Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 💼 **Frontend React Developer** with **3+ years** of experience
 - ⚛️ Specialized in **React.js, TypeScript, Next.js, Redux Toolkit**
@@ -46,49 +46,17 @@
 <br/>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://linkedin.com/in/rajshree-bargal" target="_blank">
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /><br/>
-        <b>LinkedIn</b><br/>
-        <sub>rajshree-bargal</sub>
-      </a>
-    </td>
-    <td width="16"></td>
-    <td align="center" width="150">
-      <a href="https://github.com/Rajshree96" target="_blank">
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><br/>
-        <b>GitHub</b><br/>
-        <sub>Rajshree96</sub>
-      </a>
-    </td>
-    <td width="16"></td>
-    <td align="center" width="150">
-      <a href="mailto:bargalrajshree4496@gmail.com">
-        <img width="42" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /><br/>
-        <b>Gmail</b><br/>
-        <sub>bargalrajshree4496</sub>
-      </a>
-    </td>
-    <td width="16"></td>
-    <td align="center" width="150">
-      <a href="https://wa.me/918319498839" target="_blank">
-        <img width="42" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" /><br/>
-        <b>WhatsApp</b><br/>
-        <sub>+91 83194 98839</sub>
-      </a>
-    </td>
-    <td width="16"></td>
-    <td align="center" width="150">
-      <a href="https://linkedin.com/in/rajshree-bargal" target="_blank">
-        <img width="42" src="https://img.icons8.com/color/96/resume.png" /><br/>
-        <b>Resume</b><br/>
-        <sub>View on LinkedIn</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajshree--bargal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajshree-bargal)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Rajshree96-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajshree96)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-bargalrajshree4496-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bargalrajshree4496@gmail.com)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918319498839)
+&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-View%20on%20LinkedIn-8B5CF6?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://linkedin.com/in/rajshree-bargal)
+
 </div>
 
 <br/>
@@ -202,7 +170,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 24px rgba(168,85,247,0.15);">
       <h3>💍 OnlyJewels — eCommerce Platform</h3>
       <p><sub><code>React.js</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Redux Toolkit</code> &nbsp;<code>Axios</code> &nbsp;<code>SCSS</code></sub></p>
       <hr/>
@@ -214,8 +182,12 @@
         <img src="https://img.shields.io/badge/Code_Splitting-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
       </p>
+      <br/>
+      <a href="https://github.com/Rajshree96/OnlyJewels">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 24px rgba(168,85,247,0.15);">
       <h3>📊 Admin Dashboard — Role-Based Panel</h3>
       <p><sub><code>React.js</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Redux Toolkit</code> &nbsp;<code>Material UI</code></sub></p>
       <hr/>
@@ -227,11 +199,15 @@
         <img src="https://img.shields.io/badge/Generic_Table-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
       </p>
+      <br/>
+      <a href="https://github.com/Rajshree96/Admin-Dashboard">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 24px rgba(168,85,247,0.15);">
       <h3>🍕 Pizza Order App — RTK Reference</h3>
       <p><sub><code>React.js</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Redux Toolkit</code> &nbsp;<code>React Router</code></sub></p>
       <hr/>
@@ -246,7 +222,7 @@
         </a>
       </p>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 24px rgba(168,85,247,0.15);">
       <h3>🏥 Pharmacy System — MERN Stack</h3>
       <p><sub><code>React.js</code> &nbsp;<code>Node.js</code> &nbsp;<code>Express.js</code> &nbsp;<code>MongoDB</code></sub></p>
       <hr/>
@@ -264,7 +240,7 @@
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 24px rgba(168,85,247,0.15);">
       <h3>🎓 AIM Test — Assessment Platform</h3>
       <p><sub><code>React.js</code> &nbsp;<code>TypeScript</code> &nbsp;<code>REST API Integration</code></sub></p>
       <hr/>
@@ -382,12 +358,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajshree96&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" height="165" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshree96&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="165" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajshree96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" height="165" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshree96&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rajshree96&theme=radical&hide_border=true&background=0d1117" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajshree96&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="Streak Stats"/>
 </p>
 
 <p align="center">
