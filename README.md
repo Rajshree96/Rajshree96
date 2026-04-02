@@ -1,27 +1,29 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=header&text=Hi%20👋%20,%20I'm%20Rajshree%20Bargal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20React%20Developer%20%7C%20UI%20Architect%20%7C%20Performance%20Engineer&descAlignY=55&descSize=16" />
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Frontend+React+Developer+%7C+3%2B+Years+Experience;React.js+%7C+TypeScript+%7C+Next.js+%7C+Redux+Toolkit;Building+Scalable+%26+Performant+UI+Systems;Open+to+Remote+%2F+Hybrid+Roles+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
 </div>
 
 <div align="center">
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajshree96&label=Profile%20Views&color=a855f7&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen?style=flat" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Location-Indore%20%2F%20Bengaluru-blue?style=flat&logo=googlemaps" alt="Location" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Frontend+React+Developer+%7C+3%2B+Years+Experience;React.js+%7C+TypeScript+%7C+Next.js+%7C+Redux+Toolkit;Building+Scalable+%26+Performant+UI+Systems;Open+to+Remote+%2F+Hybrid+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Rajshree96">
+    <img src="https://img.shields.io/github/followers/Rajshree96?label=Follow%20%40Rajshree96&style=for-the-badge&logo=github&color=181717&labelColor=0d1117" alt="Follow on GitHub"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Rajshree96&label=Profile+Views&color=a855f7&style=for-the-badge" alt="Profile Views" />&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20✅-brightgreen?style=for-the-badge&labelColor=0d1117" alt="Open to Work" />&nbsp;
+  <img src="https://img.shields.io/badge/📍-Indore%20%2F%20Bengaluru-5C6BC0?style=for-the-badge&labelColor=0d1117" alt="Location" />
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 🔮 About Me
 
-### 🔮 About Me
+<img align="right" alt="Frontend Dev" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 - 💼 **Frontend React Developer** with **3+ years** of experience
 - ⚛️ Specialized in **React.js, TypeScript, Next.js, Redux Toolkit**
@@ -35,74 +37,114 @@
 - 💬 Ask me about **React, TypeScript, Redux, CSS architecture**
 - 📫 Reach me at **bargalrajshree4496@gmail.com**
 
+<br/><br/><br/>
+
+---
+
+## 🌐 Connect With Me
+
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://linkedin.com/in/rajshree-bargal" target="_blank">
+        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /><br/>
+        <b>LinkedIn</b><br/>
+        <sub>rajshree-bargal</sub>
+      </a>
+    </td>
+    <td width="16"></td>
+    <td align="center" width="150">
+      <a href="https://github.com/Rajshree96" target="_blank">
+        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><br/>
+        <b>GitHub</b><br/>
+        <sub>Rajshree96</sub>
+      </a>
+    </td>
+    <td width="16"></td>
+    <td align="center" width="150">
+      <a href="mailto:bargalrajshree4496@gmail.com">
+        <img width="42" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /><br/>
+        <b>Gmail</b><br/>
+        <sub>bargalrajshree4496</sub>
+      </a>
+    </td>
+    <td width="16"></td>
+    <td align="center" width="150">
+      <a href="https://wa.me/918319498839" target="_blank">
+        <img width="42" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" /><br/>
+        <b>WhatsApp</b><br/>
+        <sub>+91 83194 98839</sub>
+      </a>
+    </td>
+    <td width="16"></td>
+    <td align="center" width="150">
+      <a href="https://linkedin.com/in/rajshree-bargal" target="_blank">
+        <img width="42" src="https://img.icons8.com/color/96/resume.png" /><br/>
+        <b>Resume</b><br/>
+        <sub>View on LinkedIn</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
 <br/>
 
 ---
 
-### 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/rajshree-bargal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:bargalrajshree4496@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Rajshree96" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+**⚛️ Frontend Core**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Tech Stack
+**🧩 State Management & Routing**
 
-**Frontend Core:**
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Custom Hooks](https://img.shields.io/badge/Custom_Hooks-764ABC?style=for-the-badge&logo=react&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css" />
-</p>
+**🎨 Styling & UI**
 
-**React Ecosystem & State:**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=redux" />
-  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Context API"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router"/>
-  <img src="https://img.shields.io/badge/Custom_Hooks-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Custom Hooks"/>
-</p>
+**🔌 API & Backend (MERN)**
 
-**Styling & UI Libraries:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,materialui,bootstrap" />
-</p>
+**🛠️ Dev Tools**
 
-**API & Backend (MERN):**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST"/>
-</p>
+**🧪 Testing**
 
-**Tools & Workflow:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevTools"/>
-</p>
-
-**Testing:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=jest" />
-  <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="RTL"/>
-</p>
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 ---
 
-### 🚀 What I Do
+## 🚀 What I Do
 
 - ⚛️ Build scalable and maintainable **React applications** from scratch
 - 🧩 Design **reusable component systems** with clean prop APIs
@@ -114,19 +156,26 @@
 - 🤝 Collaborate in **Agile teams** with backend & product teams
 
 ---
-## 🚀 How I Build Frontend Systems
 
-1. Understand product flows before coding
-2. Design reusable component contracts
-3. Separate server state vs UI state
-4. Optimize renders early
-5. Add testing for critical flows
+## 🏗️ How I Build Frontend Systems
+
+<br/>
+
+| &nbsp;&nbsp;#&nbsp;&nbsp; | Principle |
+|:---:|---|
+| **01** | Understand product flows before writing a single line of code |
+| **02** | Design reusable component contracts — props are the API |
+| **03** | Separate server state vs UI state vs local state deliberately |
+| **04** | Optimize renders early — not as an afterthought |
+| **05** | Add testing for critical user flows before shipping |
+
+<br/>
+
 ---
 
+## 💼 Experience Highlights
 
-### 💼 Experience Highlights
-
-#### 🏢 Frontend React Developer | Cyber Impulses Software Solutions *(2022 – 2024)*
+### 🏢 Frontend React Developer — Cyber Impulses Software Solutions *(2022 – 2024)*
 
 - Built **25+ reusable React components** improving UI development efficiency
 - Implemented **Redux Toolkit + Context API** for scalable state management
@@ -135,118 +184,223 @@
 - Converted **Figma designs** into responsive mobile-first interfaces
 - Debugged cross-browser issues using **Chrome DevTools**
 
-#### 💡 Career Break — Self-Development *(2020 – 2022)*
+### 💡 Career Break — Skill Development *(2020 – 2022)*
 
 - Built **5+ React projects** with REST API integration & responsive UI
 - Strengthened expertise in **JavaScript ES6+, React Hooks & modern frontend practices**
 
-#### 🔧 Junior Web Developer | JMBliss IT Solutions *(2019 – 2020)*
+### 🔧 Junior Web Developer — JMBliss IT Solutions *(2019 – 2020)*
 
 - Developed responsive web pages using **HTML5, CSS3 & JavaScript**
 - Resolved cross-browser compatibility and rendering issues
 
 ---
 
-### 🏆 Featured Projects
+## 🏆 Featured Projects
+
+<br/>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💍 OnlyJewels — eCommerce Platform</h3>
+      <p><sub><code>React.js</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Redux Toolkit</code> &nbsp;<code>Axios</code> &nbsp;<code>SCSS</code></sub></p>
+      <hr/>
+      <p>Scalable jewelry eCommerce with custom hooks as data layer, interceptor-based Axios for JWT auth, and route-level code splitting. RTK owns cart &amp; auth state; Context handles ephemeral UI. Figma-accurate, mobile-first responsive UI.</p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Auth_Guard-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Code_Splitting-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>📊 Admin Dashboard — Role-Based Panel</h3>
+      <p><sub><code>React.js</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Redux Toolkit</code> &nbsp;<code>Material UI</code></sub></p>
+      <hr/>
+      <p>Column-config driven DataTable — one component serves users, orders, and analytics without duplication. RBAC via <code>usePermissions()</code>; URL-synced pagination and filters for shareable, refresh-safe state.</p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/RBAC-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/URL_State-007FFF?style=flat-square&logo=mui&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Generic_Table-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🍕 Pizza Order App — RTK Reference</h3>
+      <p><sub><code>React.js</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Redux Toolkit</code> &nbsp;<code>React Router</code></sub></p>
+      <hr/>
+      <p>Clean RTK slice reference implementation. Zero business logic in components; all derived values through typed selectors. Built to onboard teammates to RTK patterns quickly.</p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/RTK_Slices-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript_Strict-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        &nbsp;
+        <a href="https://github.com/Rajshree96/Pizza_Order_FE_ReduxToolkit">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🏥 Pharmacy System — MERN Stack</h3>
+      <p><sub><code>React.js</code> &nbsp;<code>Node.js</code> &nbsp;<code>Express.js</code> &nbsp;<code>MongoDB</code></sub></p>
+      <hr/>
+      <p>End-to-end MERN app with consistent API response envelopes. Error normalization at the Axios layer — components receive clean data or a typed error, never a raw exception.</p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/MERN-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/API_Design-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+        &nbsp;
+        <a href="https://github.com/Rajshree96/PharmacySystem_Mern">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎓 AIM Test — Assessment Platform</h3>
+      <p><sub><code>React.js</code> &nbsp;<code>TypeScript</code> &nbsp;<code>REST API Integration</code></sub></p>
+      <hr/>
+      <p>Multi-step assessment with centralized form state hook. Question, answers, timer, and score in one hook — step navigation is a state update, not a remount with lost context.</p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/Multi_Step_Forms-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        &nbsp;
+        <a href="https://github.com/Rajshree96/aimtest_student">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="50%"></td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
-#### 💍 OnlyJewels — eCommerce Platform
+## 🧠 Core Competencies
 
-> *A production-grade jewellery eCommerce app with scalable frontend architecture*
+<br/>
 
-| | |
-|---|---|
-| **Tech Stack** | React.js · TypeScript · Redux Toolkit · Axios · React Router · SCSS |
-| **State** | RTK for cart/auth · Context for UI state (modals, filters) |
-| **API** | Axios instance with base URL + auth interceptors |
-| **Performance** | Route-level lazy loading · React.memo · useMemo · debounced search |
-| **Auth** | JWT-based login · Protected routes · Auth state in Redux |
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>⚛️ &nbsp;Core Frontend</h4>
+      <br/>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+    <td valign="top" width="33%">
+      <h4>🧩 &nbsp;State & Routing</h4>
+      <br/>
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Custom_Hooks-764ABC?style=flat-square&logo=react&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
+    </td>
+    <td valign="top" width="33%">
+      <h4>🎨 &nbsp;Styling & UI</h4>
+      <br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>🔌 &nbsp;API & Backend</h4>
+      <br/>
+      <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    </td>
+    <td valign="top" width="33%">
+      <h4>⚡ &nbsp;Performance</h4>
+      <br/>
+      <img src="https://img.shields.io/badge/Lazy_Loading-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Code_Splitting-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Memoization-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Render_Optimization-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td valign="top" width="33%">
+      <h4>🛠️ &nbsp;Tools & Testing</h4>
+      <br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/RTL-E33332?style=flat-square&logo=testinglibrary&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-**Key Features:** Product listing · Detail pages · Shopping cart · Order management · Mobile-first responsive UI
+<br/>
 
 ---
 
-#### 📊 Admin Dashboard — Role-Based Management Panel
-
-> *Real admin system — every table component works with any data entity*
-
-| | |
-|---|---|
-| **Tech Stack** | React.js · TypeScript · Redux Toolkit · Material UI · REST APIs |
-| **Auth** | Centralized `<ProtectedRoute>` + `usePermissions` hook |
-| **Tables** | Generic data table driven by column config props |
-| **UX** | Pagination + filters stored in URL query params — shareable states |
-
-**Key Features:** Role-based routing · CRUD interfaces · API-driven tables · Dashboard analytics
-
----
-
-#### 🍕 Pizza Order App — Redux Toolkit Cart
-
-> *TypeScript-strict cart flow — reference architecture for RTK slice design*
-
-```
-Tech → React.js | TypeScript | Redux Toolkit | React Router
-```
-[![View](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Rajshree96/Pizza_Order_FE_ReduxToolkit)
-
----
-
-#### 🏥 Pharmacy System — MERN Stack App
-
-> *End-to-end MERN application covering React frontend to Express + MongoDB backend*
-
-```
-Tech → React.js | Node.js | Express.js | MongoDB | JavaScript
-```
-[![View](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Rajshree96/PharmacySystem_Mern)
-
----
-
-#### 🎓 AIM Test — Student Assessment Platform
-
-> *TypeScript-first student testing interface with dynamic form handling*
-
-```
-Tech → React.js | TypeScript | REST API Integration
-```
-[![View](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Rajshree96/aimtest_student)
-
----
-
-### 🧠 Core Competencies
-
-| Domain | Skills |
-|---|---|
-| **Core Frontend** | React.js · TypeScript · JavaScript ES6+ · Next.js · HTML5 · CSS3 |
-| **State Management** | Redux Toolkit · Context API · Custom Hooks |
-| **UI & Styling** | Tailwind CSS · SCSS/SASS · Material UI · Bootstrap |
-| **API & Backend** | REST APIs · Axios · Node.js · Express · MongoDB |
-| **Performance** | Lazy Loading · Code Splitting · Memoization · Render Optimization |
-| **Testing** | Jest · React Testing Library |
-| **Tools** | Git · GitHub · VS Code · Figma · Postman · Chrome DevTools |
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajshree96&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshree96&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajshree96&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" height="165" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshree96&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="165" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rajshree96&theme=radical&hide_border=true" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Rajshree96&theme=radical&hide_border=true&background=0d1117" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshree96&theme=redical&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshree96&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajshree96&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies"/>
 </p>
 
 ---
 
-### 🔥 Current Focus
+## 🔥 Current Focus
 
 - 🚀 **Next.js 14** — App Router, Server Components, Streaming
 - 🏗️ **Frontend System Design** — Design Systems, Component Libraries
@@ -256,7 +410,7 @@ Tech → React.js | TypeScript | REST API Integration
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
 **Master of Computer Applications (MCA)**
 > CGPA: **7.9 / 10**
@@ -270,7 +424,7 @@ If you find my repositories useful or interesting — ⭐ **star them!** It mean
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=100&section=footer&animation=twinkling" />
 </p>
 
 <p align="center">
