@@ -48,7 +48,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rajshree--bargal.vercel.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://rajshree-bargal.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajshree--bargal.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://rajshree-bargal.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rajshree--bargal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajshree-bargal)
 &nbsp;
