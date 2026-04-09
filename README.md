@@ -35,6 +35,7 @@
 - 🎯 Target: **Senior Frontend Engineer @ Product / US-based Company**
 - 📚 MCA Graduate with **CGPA 7.9**
 - 💬 Ask me about **React, TypeScript, Redux, CSS architecture**
+- 🌐 Portfolio: **[rajshree-bargal.vercel.app](https://rajshree-bargal.vercel.app)**
 - 📫 Reach me at **bargalrajshree4496@gmail.com**
 
 <br/><br/><br/>
@@ -47,6 +48,8 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajshree--bargal.vercel.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://rajshree-bargal.vercel.app)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rajshree--bargal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajshree-bargal)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Rajshree96-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajshree96)
@@ -62,55 +65,6 @@
 <br/>
 
 ---
-<!--
-## 🛠️ Tech Stack
-
-**⚛️ Frontend Core**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**🧩 State Management & Routing**
-
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Custom Hooks](https://img.shields.io/badge/Custom_Hooks-764ABC?style=for-the-badge&logo=react&logoColor=white)
-
-**🎨 Styling & UI**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**🔌 API & Backend (MERN)**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**🛠️ Dev Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-**🧪 Testing**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
----
--->
 
 ## 🚀 What I Do
 
@@ -255,7 +209,22 @@
         </a>
       </p>
     </td>
-    <td valign="top" width="50%"></td>
+    <td valign="top" width="50%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 24px rgba(168,85,247,0.15);">
+      <h3>🌐 Portfolio — Personal Website</h3>
+      <p><sub><code>Next.js</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Three.js</code> &nbsp;<code>Framer Motion</code> &nbsp;<code>Tailwind</code></sub></p>
+      <hr/>
+      <p>Premium portfolio featuring a Three.js hero scene with floating wireframe crystals, torus knot & star field. CSS 3D orbit skills display, mouse-tracking tilt project cards, and a hand-crafted SVG developer illustration.</p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Framer_Motion-EE5FAD?style=flat-square&logo=framer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      </p>
+      <br/>
+      <a href="https://rajshree-bargal.vercel.app">
+        <img src="https://img.shields.io/badge/🌐%20Live%20Site-a855f7?style=flat-square&logoColor=white"/>
+      </a>
+    </td>
   </tr>
 </table>
 
